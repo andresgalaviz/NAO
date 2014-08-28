@@ -1,0 +1,2 @@
+/home/andres/Documents/NAO/naoqi/doc/dev/cpp/examples/core/helloworld/build-naoqi-sdk/CMakeFiles/helloworld.dir
+/home/andres/Documents/NAO/naoqi/doc/dev/cpp/examples/core/helloworld/build-naoqi-sdk/CMakeFiles/testhelloworld.dir

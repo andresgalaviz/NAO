@@ -1,0 +1,26 @@
+<worktree>
+  <project src="vision/arv2avi" />
+  <project src="vision/img2arv" />
+  <project src="vision/onfacedetection" />
+  <project src="vision/genericvideomodule" />
+  <project src="vision/getimage" />
+  <project src="vision/alvisualcompass" />
+  <project src="vision/optimizedimage" />
+  <project src="motion/movehead" />
+  <project src="motion/motionexample" />
+  <project src="audio/speechbasedreaction" />
+  <project src="audio/soundprocessing" />
+  <project src="audio/soundplayback" />
+  <project src="audio/soundbasedreaction" />
+  <project src="audiovideocapture" />
+  <project src="core/custommain" />
+  <project src="core/helloworld" />
+  <project src="core/sayhelloworld" />
+  <project src="core/module/myfirstproject" />
+  <project src="core/module/myfirstlocalmodule" />
+  <project src="core/module/myfirstremotemodule" />
+  <project src="core/events" />
+  <project src="sensors/fastgetsetdcm" />
+  <project src="sensors/bumper" />
+  <project src="sensors/leds" />
+</worktree>

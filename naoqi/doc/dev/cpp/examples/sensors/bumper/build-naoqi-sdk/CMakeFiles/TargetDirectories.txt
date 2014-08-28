@@ -1,0 +1,1 @@
+/home/andres/Documents/NAO/naoqi/doc/dev/cpp/examples/sensors/bumper/build-naoqi-sdk/CMakeFiles/bumper.dir
